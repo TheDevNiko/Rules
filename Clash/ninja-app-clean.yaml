@@ -1,0 +1,15 @@
+payload:
+  - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,adjust.com
+  - DOMAIN-SUFFIX,adjust.io
+  - DOMAIN-SUFFIX,branch.io
+  - DOMAIN-SUFFIX,bugly.qq.com
+  - DOMAIN-SUFFIX,crashlytics.com
+  - DOMAIN-SUFFIX,flurry.com
+  - DOMAIN-SUFFIX,mixpanel.com
+  - DOMAIN-SUFFIX,segment.com
+  - DOMAIN-SUFFIX,umeng.com
+  - DOMAIN-SUFFIX,umengcloud.com
+  - DOMAIN-SUFFIX,talkingdata.com
+  - DOMAIN-SUFFIX,sensorsdata.cn
+  - DOMAIN-SUFFIX,growingio.com

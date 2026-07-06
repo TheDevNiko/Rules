@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN,ads.google.com
+  - DOMAIN,analytics.google.com
+  - DOMAIN,search.google.com
+  - DOMAIN-SUFFIX,googleadservices.com

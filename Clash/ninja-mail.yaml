@@ -1,0 +1,9 @@
+payload:
+  - DOMAIN,pop.gmail.com
+  - DOMAIN,smtp.gmail.com
+  - DOMAIN,imap.gmail.com
+  - DOMAIN-SUFFIX,googlemail.com
+  - DOMAIN,outlook.office365.com
+  - DOMAIN,smtp.office365.com
+  - DOMAIN-SUFFIX,imap-mail.outlook.com
+  - DOMAIN-SUFFIX,smtp-mail.outlook.com
